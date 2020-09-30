@@ -16,9 +16,14 @@ The rules are described below :
 ### Requirement
     - IntelliJ IDEA
     - Java 1.8
-    - Maven
+    - Maven 3.8.1
     
 ## Dependencies
     - junit 4.12
     - mockito 1.10.18
+  
+## Content
+  This project can be executed by GameRunner(main) class.
+  Following is the result of the game on console --
+  
   
