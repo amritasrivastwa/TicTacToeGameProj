@@ -14,6 +14,7 @@ The rules are described below :
 - If all nine squares are filled and neither player has three in a row, the game is a draw.
 
 ### Requirement
+    - IntelliJ IDEA
     - Java 1.8
     - Maven
     
