@@ -13,7 +13,11 @@ The rules are described below :
 - If a player is able to draw three X’s or three O’s in a row, that player wins.
 - If all nine squares are filled and neither player has three in a row, the game is a draw.
 
-##Pre-requisites
-  --Intellij IDEA
-  
+### Requirement
+    - Java 1.8
+    - Maven
+    
+## Dependencies
+    - junit 4.12
+    - mockito 1.10.18
   
