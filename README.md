@@ -27,3 +27,4 @@ The rules are described below :
   Following is the result of the game on console --
   
   
+![alt text](https://user-images.githubusercontent.com/20910854/94687415-da9ab500-0349-11eb-811d-6084421e6506.PNG)
